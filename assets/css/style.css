@@ -1,3 +1,7 @@
+body {
+  color:white;
+}
+
 small {
   font-size: 13px;
 }
@@ -24,4 +28,3 @@ a {
 h3 {
   color:white;
 }
-
