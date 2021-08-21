@@ -15,11 +15,11 @@ small {
   border: 1px solid;
   border-color: white;
   padding: 20px;
-  box-shadow: 4px 9px #FFFFFF;
+  box-shadow: 2px 7px #FFFFFF;
 }
 
 a {
-  color: #0098ff;
+  color: #00c8ff;
 }
 
 .darker {
